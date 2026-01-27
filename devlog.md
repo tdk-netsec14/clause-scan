@@ -5,3 +5,7 @@
 - Added notes: docs(devlog): initialize project tracking and milestones
 
 
+## Update: 2026-01-27T14:45:00+05:30
+- Added notes: docs(devlog): detail architecture decisions for React and Node
+
+
