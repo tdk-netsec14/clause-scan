@@ -13,3 +13,7 @@
 - Added notes: docs(devlog): note Tailwind CSS configuration setup
 
 
+## Update: 2026-01-28T11:15:00+05:30
+- Added notes: docs(devlog): plan MongoDB schema for User and Document
+
+
