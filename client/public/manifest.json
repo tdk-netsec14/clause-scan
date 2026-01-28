@@ -1,0 +1,9 @@
+{
+  "short_name": "ClauseScan",
+  "name": "ClauseScan Contract Analysis",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4F63F7",
+  "background_color": "#ffffff"
+}
