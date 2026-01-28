@@ -17,3 +17,7 @@
 - Added notes: docs(devlog): plan MongoDB schema for User and Document
 
 
+## Update: 2026-01-28T16:20:00+05:30
+- Added notes: docs(devlog): draft authentication flow with JWT
+
+
