@@ -21,3 +21,7 @@
 - Added notes: docs(devlog): draft authentication flow with JWT
 
 
+## Update: 2026-01-29T10:05:00+05:30
+- Added notes: docs(devlog): review Groq API rate limits and integration
+
+
