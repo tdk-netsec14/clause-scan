@@ -29,3 +29,7 @@
 - Added notes: docs(devlog): document file upload pipeline constraints
 
 
+## Update: 2026-01-31T15:45:00+05:30
+- Added notes: docs(devlog): outline OCR fallback strategy using Tesseract
+
+
