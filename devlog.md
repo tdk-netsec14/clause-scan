@@ -25,3 +25,7 @@
 - Added notes: docs(devlog): review Groq API rate limits and integration
 
 
+## Update: 2026-01-31T11:20:00+05:30
+- Added notes: docs(devlog): document file upload pipeline constraints
+
+
