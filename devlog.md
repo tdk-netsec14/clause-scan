@@ -33,3 +33,7 @@
 - Added notes: docs(devlog): outline OCR fallback strategy using Tesseract
 
 
+## Update: 2026-02-03T09:10:00+05:30
+- Added notes: docs(devlog): add notes on Indian law book JSON structure
+
+
