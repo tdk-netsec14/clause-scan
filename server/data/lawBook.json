@@ -1,0 +1,145 @@
+{
+  "title": "Legal Copilot Indian Contract Review Book",
+  "rules": [
+    {
+      "id": "payment_terms",
+      "label": "Payment terms",
+      "clauseTypes": ["payment"],
+      "keywords": ["payment", "invoice", "fee", "fees", "milestone", "due date", "late fee", "interest", "net 30", "net-30", "net 45", "net-60", "net 90", "net-90"],
+      "references": [
+        {
+          "act": "Indian Contract Act, 1872",
+          "section": "Sections 37, 39, 55, 73, 74",
+          "note": "Performance should follow the agreed timeline, and unclear payment timing makes enforcement harder."
+        }
+      ],
+      "reviewFocus": "Check whether payment dates, invoice triggers, and late payment consequences are clearly written.",
+      "warning": "Vague payment timing or a one-sided right to withhold payment can create collection risk for a small business."
+    },
+    {
+      "id": "termination_terms",
+      "label": "Termination rights",
+      "clauseTypes": ["termination"],
+      "keywords": ["terminate", "termination", "notice", "cause", "without cause", "immediately", "breach", "cure period"],
+      "references": [
+        {
+          "act": "Indian Contract Act, 1872",
+          "section": "Sections 39, 55, 73, 74",
+          "note": "A party affected by non-performance or breach should have clear notice and remedy language."
+        }
+      ],
+      "reviewFocus": "Check whether the notice period, cure period, and compensation for work already performed are clearly defined.",
+      "warning": "Immediate or discretionary termination without notice can leave the weaker party unpaid after investing time or money."
+    },
+    {
+      "id": "liability_cap",
+      "label": "Liability cap",
+      "clauseTypes": ["liability"],
+      "keywords": ["liability", "cap", "limit", "indemnify", "indemnity", "consequential", "damages", "losses"],
+      "references": [
+        {
+          "act": "Indian Contract Act, 1872",
+          "section": "Sections 73, 74",
+          "note": "Risk allocation should be clear when damages or compensation are triggered by breach."
+        }
+      ],
+      "reviewFocus": "Check whether liability is capped and whether indirect or consequential losses are excluded fairly.",
+      "warning": "Unlimited indemnity or an uncapped damages clause can create exposure far beyond the contract value."
+    },
+    {
+      "id": "arbitration_dispute_resolution",
+      "label": "Dispute resolution",
+      "clauseTypes": ["arbitration"],
+      "keywords": ["arbitration", "arbitrator", "venue", "seat", "jurisdiction", "dispute", "courts"],
+      "references": [
+        {
+          "act": "Arbitration and Conciliation Act, 1996",
+          "section": "Sections 7, 8, 28",
+          "note": "The arbitration clause must be clear about the process, seat, and how disputes move to arbitration."
+        }
+      ],
+      "reviewFocus": "Check whether the arbitration seat, language, costs, and court jurisdiction are clearly stated.",
+      "warning": "A vague dispute clause can force the smaller party into an expensive or one-sided process."
+    },
+    {
+      "id": "confidentiality",
+      "label": "Confidentiality",
+      "clauseTypes": ["confidentiality"],
+      "keywords": ["confidential", "nda", "non-disclosure", "secret", "private", "proprietary", "information"],
+      "references": [
+        {
+          "act": "Indian Contract Act, 1872",
+          "section": "Sections 37, 73",
+          "note": "Confidentiality promises should have scope, duration, and breach consequences that can actually be enforced."
+        }
+      ],
+      "reviewFocus": "Check whether confidential information is defined and whether exceptions are fair and mutual.",
+      "warning": "A broad confidentiality clause can block normal business use if it is not limited by purpose, time, and scope."
+    },
+    {
+      "id": "intellectual_property",
+      "label": "Intellectual property",
+      "clauseTypes": ["intellectual_property"],
+      "keywords": ["intellectual property", "ip", "ownership", "copyright", "assignment", "work product", "deliverables", "source code"],
+      "references": [
+        {
+          "act": "Copyright Act, 1957",
+          "section": "Sections 17, 18",
+          "note": "Ownership and assignment of creative work should be explicit instead of implied."
+        },
+        {
+          "act": "Indian Contract Act, 1872",
+          "section": "Sections 10, 37",
+          "note": "Assignment or transfer terms should be clearly agreed and supported by consideration."
+        }
+      ],
+      "reviewFocus": "Check whether the contract clearly says who owns work created during the deal and what is licensed back.",
+      "warning": "If IP ownership is vague, the other party may claim rights over work you create or pay for."
+    },
+    {
+      "id": "governing_law",
+      "label": "Governing law",
+      "clauseTypes": ["governing_law"],
+      "keywords": ["governing law", "jurisdiction", "laws of india", "courts at", "exclusive jurisdiction"],
+      "references": [
+        {
+          "act": "Indian Contract Act, 1872",
+          "section": "Sections 10, 23",
+          "note": "The governing law clause should not conflict with mandatory Indian law requirements."
+        }
+      ],
+      "reviewFocus": "Check whether the contract names the correct governing law and forum for disputes.",
+      "warning": "A foreign forum or unclear jurisdiction clause can increase cost and delay if a dispute happens."
+    },
+    {
+      "id": "force_majeure",
+      "label": "Force majeure",
+      "clauseTypes": [],
+      "keywords": ["force majeure", "act of god", "pandemic", "natural disaster", "strike", "lockdown"],
+      "references": [
+        {
+          "act": "Indian Contract Act, 1872",
+          "section": "Section 56",
+          "note": "Impossible performance and frustration should be addressed clearly, not left to vague discretion."
+        }
+      ],
+      "reviewFocus": "Check whether the clause lists qualifying events, notice duties, and suspension or termination rights.",
+      "warning": "If force majeure is vague, the stronger party may use it to avoid obligations without a clear trigger."
+    },
+    {
+      "id": "amendment_entire_agreement",
+      "label": "Amendment and entire agreement",
+      "clauseTypes": [],
+      "keywords": ["amendment", "entire agreement", "written modification", "verbal", "side letter", "supersede"],
+      "references": [
+        {
+          "act": "Indian Contract Act, 1872",
+          "section": "Sections 10, 62",
+          "note": "Changes to contract terms should be documented clearly so later disputes do not rely on oral promises."
+        }
+      ],
+      "reviewFocus": "Check whether changes must be written and whether side promises are excluded or preserved properly.",
+      "warning": "If amendment rules are loose, one side can later deny or rewrite the deal using informal instructions."
+    }
+  ]
+}
