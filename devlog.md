@@ -53,3 +53,7 @@
 - Added notes: docs(devlog): late night fixes planned for file parser
 
 
+## Update: 2026-02-06T09:45:00+05:30
+- Added notes: docs(devlog): review error handling for pdf-parse edge cases
+
+
