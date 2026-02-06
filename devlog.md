@@ -57,3 +57,7 @@
 - Added notes: docs(devlog): review error handling for pdf-parse edge cases
 
 
+## Update: 2026-02-06T14:10:00+05:30
+- Added notes: docs(devlog): note performance improvements for text extraction
+
+
