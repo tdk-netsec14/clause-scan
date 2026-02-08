@@ -73,3 +73,7 @@
 - Added notes: docs(devlog): outline loophole detection patterns
 
 
+## Update: 2026-02-08T15:15:00+05:30
+- Added notes: docs(devlog): document testing strategy for analysis pipeline
+
+
