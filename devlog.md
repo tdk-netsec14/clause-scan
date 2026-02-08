@@ -69,3 +69,7 @@
 - Added notes: docs(devlog): refine health score calculation formula
 
 
+## Update: 2026-02-08T10:50:00+05:30
+- Added notes: docs(devlog): outline loophole detection patterns
+
+
