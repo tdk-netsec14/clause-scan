@@ -81,3 +81,7 @@
 - Added notes: docs(devlog): plan bilingual translation support for Hindi
 
 
+## Update: 2026-02-09T14:20:00+05:30
+- Added notes: docs(devlog): note deployment prerequisites for Vercel/Render
+
+
