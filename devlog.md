@@ -77,3 +77,7 @@
 - Added notes: docs(devlog): document testing strategy for analysis pipeline
 
 
+## Update: 2026-02-09T09:30:00+05:30
+- Added notes: docs(devlog): plan bilingual translation support for Hindi
+
+
