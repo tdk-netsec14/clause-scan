@@ -93,3 +93,7 @@
 - Added notes: docs(devlog): add checklist for final UI polish and responsive fixes
 
 
+## Update: 2026-02-12T09:50:00+05:30
+- Added notes: docs(devlog): finalize negotiation point extraction heuristics
+
+
