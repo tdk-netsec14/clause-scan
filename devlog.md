@@ -101,3 +101,7 @@
 - Added notes: docs(devlog): update rate limit testing results
 
 
+## Update: 2026-02-13T11:10:00+05:30
+- Added notes: docs(devlog): document CORS configuration for production
+
+
